@@ -1,0 +1,641 @@
+[2026-07-06 06:49:31] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 2026-07-24
+    [cost] => 5000
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 06:49:46] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 2026-07-16
+    [cost] => 2343
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 06:49:57] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 
+    [cost] => 
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 06:53:08] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 
+    [cost] => 
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 06:53:21] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 2026-07-18
+    [cost] => 5000
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 06:54:16] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 41
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 2026-07-13
+    [cost] => 5000
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:04:01] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 39
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => Testtt
+    [scheduled_date] => 2026-07-07
+    [completion_date] => 2026-07-24
+    [cost] => 2500
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:04:30] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 39
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => asdsad
+    [scheduled_date] => 2026-07-11
+    [completion_date] => 2026-07-29
+    [cost] => 5000.00
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:05:36] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 39
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => wqwe
+    [scheduled_date] => 2026-07-11
+    [completion_date] => 2026-07-17
+    [cost] => 2
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:08:38] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 39
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => Oil change
+    [details] => wqwe
+    [scheduled_date] => 2026-07-11
+    [completion_date] => 2026-07-17
+    [cost] => 2
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:13:19] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 44
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => asd
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 2
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:13:34] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 44
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => asd
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 34334.00
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:14:32] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 44
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => s
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 3434.00
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:14:36] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 44
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => s
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 3434.00
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:15:05] Exception: Invalid ID provided for deletion. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 77
+Request Data: Array
+(
+    [action] => delete
+    [id] => 0
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:15:08] Exception: Invalid ID provided for deletion. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 77
+Request Data: Array
+(
+    [action] => delete
+    [id] => 0
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:17:08] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 44
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => asdss
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 3434.00
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:19:14] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 60
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => asd
+    [details] => adasdsss
+    [scheduled_date] => 2026-07-10
+    [completion_date] => 2026-07-16
+    [cost] => 223.00
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:19:23] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 60
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => asd
+    [details] => adasdsss
+    [scheduled_date] => 2026-07-10
+    [completion_date] => 2026-07-16
+    [cost] => 223.00
+    [status] => Scheduled
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:19:26] Exception: Invalid ID provided for deletion. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 11
+Request Data: Array
+(
+    [action] => delete
+    [id] => 0
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:19:33] Exception: Invalid ID provided for deletion. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 11
+Request Data: Array
+(
+    [action] => delete
+    [id] => 0
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:23:03] Exception: Invalid action specified. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 78
+Request Data: Array
+(
+    [action] => edit
+    [id] => 0
+    [vehicle_id] => 2
+    [service_type] => ad
+    [details] => asd
+    [scheduled_date] => 2026-07-17
+    [completion_date] => 2026-07-29
+    [cost] => 33
+    [status] => In Progress
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-06 07:23:08] Exception: Invalid ID provided for deletion. in C:\xampp\htdocs\fleetsync\backend\maintenance.php on line 11
+Request Data: Array
+(
+    [action] => delete
+    [id] => 0
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
+[2026-07-07 07:11:48] CRITICAL: Database connection failed. SQLSTATE[HY000] [2006] MySQL server has gone away
+[2026-07-07 07:11:48] CRITICAL: Database connection failed. SQLSTATE[HY000] [2006] MySQL server has gone away
+[2026-07-07 07:12:03] CRITICAL: Database connection failed. SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-07-07 08:54:41] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for sdfdsf
+    [amount] => $2222
+    [status] => Draft
+    [due_date] => 2026-07-08
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 08:56:19] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for sdfdsf
+    [amount] => $2,363.00
+    [status] => Draft
+    [due_date] => 2026-07-08
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 09:01:03] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for sdfdsf
+    [amount] => $3,036.00
+    [status] => Draft
+    [due_date] => 
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 09:08:07] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for sdfdsf
+    [amount] => $3,955.00
+    [status] => Draft
+    [due_date] => 2026-07-07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 09:09:01] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for sdfdsf
+    [amount] => $3,064.00
+    [status] => Draft
+    [due_date] => 2026-07-08
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 09:10:57] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for ewrewr
+    [amount] => $3,822.00
+    [status] => Draft
+    [due_date] => 
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-07 09:11:14] PDOException: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`fleet`.`invoices`, CONSTRAINT `fk_invoice_trip` FOREIGN KEY (`trip_id`) REFERENCES `trips` (`id`) ON DELETE SET NULL ON UPDATE CASCADE) in C:\xampp\htdocs\fleetsync\backend\invoices.php on line 32
+Request Data: Array
+(
+    [action] => add
+    [id] => 
+    [trip_id] => undefined
+    [client_name] => Client for ewrewr
+    [amount] => $4,591.00
+    [status] => Draft
+    [due_date] => 2026-07-07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\invoices.php(32): PDOStatement->execute(Array)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 05:36:04] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => admin@gmail.com
+    [password] => adminadmin
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 05:36:25] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => admin@gmail.com
+    [password] => adminadmin
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 05:39:02] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => w@gmail.com
+    [password] => fleetfleet
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 05:41:45] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => admin@gmail.com
+    [password] => adminadmin
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 08:23:01] Exception: Command failed with status 1:  in C:\xampp\htdocs\fleetsync\backend\database.php on line 31
+Request Data: Array
+(
+    [action] => backup
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\database.php(53): execute_command('"mysqldump" --u...', Array, 1)
+#1 {main}
+----------------------------------------------------------------------
+[2026-07-08 08:24:15] Exception: Command failed with status 1:  in C:\xampp\htdocs\fleetsync\backend\database.php on line 31
+Request Data: Array
+(
+    [action] => backup
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\database.php(53): execute_command('"mysqldump" --u...', Array, 1)
+#1 {main}
+----------------------------------------------------------------------
+[2026-09-22 17:07:19] CRITICAL: Database connection failed. SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-09-22 17:07:39] CRITICAL: Database connection failed. SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-10-16 11:01:27] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\register.php on line 47
+Request Data: Array
+(
+    [first_name] => w
+    [last_name] => w
+    [email] => willbarrios30@gmail.com
+    [role] => Admin
+    [password] => qweqweqwe
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\register.php(47): PDO->prepare('INSERT INTO use...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-16 11:45:52] PHPMailer\PHPMailer\Exception: Message body empty in C:\xampp\htdocs\fleetsync\PHPMailer-master\src\PHPMailer.php on line 1780
+Request Data: Array
+(
+    [first_name] => wc
+    [last_name] => wc
+    [email] => wchristianbarrios@gmail.com
+    [role] => Fleet Manager
+    [password] => qweqweqwe
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\PHPMailer-master\src\PHPMailer.php(1667): PHPMailer\PHPMailer\PHPMailer->preSend()
+#1 C:\xampp\htdocs\fleetsync\backend\register.php(83): PHPMailer\PHPMailer\PHPMailer->send()
+#2 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:49:53] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => Perry.07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:52:09] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => Perry.07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:52:10] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => Perry.07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:52:15] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => Perry.07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:52:16] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => Perry.07
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 04:52:48] PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'email_verified' in 'field list' in C:\xampp\htdocs\fleetsync\backend\login.php on line 23
+Request Data: Array
+(
+    [email] => perrydivino@gmail.com
+    [password] => $2y$10$7jTWOFHOCnVAJWUWT7CSwumOW5DfDhqY0M/sZfYE1H1la0lGYQGV2
+)
+
+Stack trace:
+#0 C:\xampp\htdocs\fleetsync\backend\login.php(23): PDO->prepare('SELECT id, firs...')
+#1 {main}
+----------------------------------------------------------------------
+[2026-10-18 05:14:45] Exception: Verification token not found or already used. in C:\xampp\htdocs\fleetsync\backend\verify.php on line 22
+Request Data: Array
+(
+    [token] => cddb42f9350900011949bb1809344b81
+)
+
+Stack trace:
+#0 {main}
+----------------------------------------------------------------------
